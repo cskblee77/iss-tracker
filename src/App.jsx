@@ -22,7 +22,7 @@ export default function App() {
         <span className="badge">
           <span className={`live-dot ${query.isError ? 'off' : ''}`} /> 실시간 · open-notify API
         </span>
-        <h1>국제 우주 정거장 실시간 추적</h1>
+        <h1>실시간 추적 국제 우주 정거장</h1>
         <p>지금 이 순간 ISS가 지구 위 어디를 지나고 있는지, 최근 4시간의 궤적과 함께 보여줍니다.</p>
       </header>
 
